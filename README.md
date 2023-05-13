@@ -1,4 +1,9 @@
-# LumberjackCustomHttpDriver
+# Lumberjack-Custom-Http-Driver
+
+Features:
+    - Default features as the @ngworker/lumberjack http driver
+    - Batching implementation with high-priority features that can directly send the logs to the server with the rest being batched together.
+    - LogServiceSDK with custom methods for logging
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
